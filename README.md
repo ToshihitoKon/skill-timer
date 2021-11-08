@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/216bd2ad-5b37-4ddc-9169-99082e25b636/deploy-status)](https://app.netlify.com/sites/quirky-benz-a176fa/deploys)
+
 # 音ゲースキルタイマー
 
 n秒ごとにm秒間発動みたいなスキルの発動タイミングをなんとなく把握するタイマーです
